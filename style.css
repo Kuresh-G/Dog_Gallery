@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(249, 178, 84);
+}
+img{
+    height: 300px;
+    width: 350px;
+}
+button{
+    background-color: rgb(160, 127, 42);
+}
+h1{
+    color: rgb(160, 127, 42);
+    /* background-color:bisque; */
+}
